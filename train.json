@@ -1,0 +1,866 @@
+[
+    [
+        "Our company is hiring a Epidemiologist to lead the new project.",
+        {
+            "entities": [
+                [
+                    24,
+                    38,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Technical Recruiter was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    19,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Solutions Architect was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    19,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Data Scientists has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    29,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Software Engineer was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    17,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Technical Writer was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Chief Financial Officer (CFO) are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    68,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Legal Counsel are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    52,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Pharmacist include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    36,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Operations Manager include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    44,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Psychiatrist requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    23,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Business Analyst are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    55,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Software Engineers has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    32,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Graphic Designers has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    31,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Data Scientists has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    29,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Solutions Architect are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    58,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Laboratory Technician in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    52,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Surgeons has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    22,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Database Administrator requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    33,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Anesthesiologist requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    27,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Clinical Data Manager are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    60,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Medical Laboratory Scientist in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    59,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Data Engineer are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    52,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Pediatrician are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    51,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a IT Support Specialist in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    52,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mobile App Developer is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    20,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Epidemiologists has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    29,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Clinical Research Coordinators has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    44,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Laboratory Technicians has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    36,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Data Scientist include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    40,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Physician Assistants has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    34,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mobile App Developers often collaborate with other departments to achieve goals.",
+        {
+            "entities": [
+                [
+                    0,
+                    20,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Project Manager requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    26,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Product Manager was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Surgeon is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Supply Chain Manager is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    20,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Software Engineer requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    28,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Anesthesiologist include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    42,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a Product Manager, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    20,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Psychiatrist was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    12,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Our company is hiring a Data Scientist to lead the new project.",
+        {
+            "entities": [
+                [
+                    24,
+                    38,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Medical Coding Specialist is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    25,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Cybersecurity Specialist requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    35,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Legal Counsel requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    24,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "HR Manager was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Security Analyst requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    27,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Systems Analysts often collaborate with other departments to achieve goals.",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Cloud Architect include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    41,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a HR Manager include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    36,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Our company is hiring a HR Manager to lead the new project.",
+        {
+            "entities": [
+                [
+                    24,
+                    34,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Penetration Testers often collaborate with other departments to achieve goals.",
+        {
+            "entities": [
+                [
+                    0,
+                    18,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Our company is hiring a Anesthesiologist to lead the new project.",
+        {
+            "entities": [
+                [
+                    24,
+                    40,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Machine Learning Engineers has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    40,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Customer Success Manager requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    35,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Nurse Practitioners has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    33,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Graphic Designer was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Physician Assistant in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    50,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Cybersecurity Specialist are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    63,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Radiologist requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    22,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Physician Assistant requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    30,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a UX Designer, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    16,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Business Analyst was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Technical Recruiter was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    19,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Supply Chain Manager was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    20,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a DevOps Engineer requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    26,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Security Analyst include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    42,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a Biomedical Engineer, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    24,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Legal Counsel is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    13,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a Business Analyst, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    21,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Quality Assurance Engineer are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    65,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a Cloud Architect, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    20,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Graphic Designers often collaborate with other departments to achieve goals.",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ]
+]

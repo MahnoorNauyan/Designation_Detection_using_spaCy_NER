@@ -1,0 +1,338 @@
+[
+    [
+        "As a Chief Operating Officer (COO), staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    34,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Marketing Managers often collaborate with other departments to achieve goals.",
+        {
+            "entities": [
+                [
+                    0,
+                    17,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Chief Technology Officer (CTO) was recently promoted to a higher position.",
+        {
+            "entities": [
+                [
+                    0,
+                    30,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Laboratory Technician in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    52,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful Pharmacist are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    49,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Security Analyst in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    47,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Chief Executive Officer (CEO) is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    29,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a Laboratory Technician, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    26,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The demand for Graphic Designers has increased significantly in recent years.",
+        {
+            "entities": [
+                [
+                    15,
+                    31,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Clinical Data Manager is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    21,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Technical Writer in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    47,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Our company is hiring a Business Analyst to lead the new project.",
+        {
+            "entities": [
+                [
+                    24,
+                    40,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Chief Technology Officer (CTO) include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    56,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a Technical Recruiter, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    24,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The skills required to be a successful DevOps Engineer are constantly evolving.",
+        {
+            "entities": [
+                [
+                    39,
+                    54,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Medical Coding Specialists often collaborate with other departments to achieve goals.",
+        {
+            "entities": [
+                [
+                    0,
+                    25,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Supply Chain Manager in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    51,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "As a Public Health Officer, staying updated with the latest trends is essential.",
+        {
+            "entities": [
+                [
+                    5,
+                    26,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Web Developer include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    39,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Surgeon requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Biomedical Engineer is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    19,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Many people aspire to become a Epidemiologist in the tech industry.",
+        {
+            "entities": [
+                [
+                    31,
+                    45,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Our company is hiring a Business Analyst to lead the new project.",
+        {
+            "entities": [
+                [
+                    24,
+                    40,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Machine Learning Engineer include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    51,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Becoming a Systems Analyst requires years of experience and expertise.",
+        {
+            "entities": [
+                [
+                    11,
+                    26,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "The responsibilities of a Product Manager include managing teams and projects.",
+        {
+            "entities": [
+                [
+                    26,
+                    41,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Customer Success Managers often collaborate with other departments to achieve goals.",
+        {
+            "entities": [
+                [
+                    0,
+                    24,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ],
+    [
+        "Graphic Designer is a critical role in ensuring the success of the company.",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "DESIGNATION"
+                ]
+            ]
+        }
+    ]
+]
